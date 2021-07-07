@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/08-Project-Exam-2/static/css/main.e275aa14.chunk.css",
+    "main.js": "/08-Project-Exam-2/static/js/main.ea213fce.chunk.js",
+    "main.js.map": "/08-Project-Exam-2/static/js/main.ea213fce.chunk.js.map",
+    "runtime-main.js": "/08-Project-Exam-2/static/js/runtime-main.4f7d60a2.js",
+    "runtime-main.js.map": "/08-Project-Exam-2/static/js/runtime-main.4f7d60a2.js.map",
+    "static/js/2.32929380.chunk.js": "/08-Project-Exam-2/static/js/2.32929380.chunk.js",
+    "static/js/2.32929380.chunk.js.map": "/08-Project-Exam-2/static/js/2.32929380.chunk.js.map",
+    "static/js/3.cf569618.chunk.js": "/08-Project-Exam-2/static/js/3.cf569618.chunk.js",
+    "static/js/3.cf569618.chunk.js.map": "/08-Project-Exam-2/static/js/3.cf569618.chunk.js.map",
+    "index.html": "/08-Project-Exam-2/index.html",
+    "static/css/main.e275aa14.chunk.css.map": "/08-Project-Exam-2/static/css/main.e275aa14.chunk.css.map",
+    "static/js/2.32929380.chunk.js.LICENSE.txt": "/08-Project-Exam-2/static/js/2.32929380.chunk.js.LICENSE.txt",
+    "static/media/bergen_bryggen2.0a424a5f.jpg": "/08-Project-Exam-2/static/media/bergen_bryggen2.0a424a5f.jpg",
+    "static/media/style.scss": "/08-Project-Exam-2/static/media/bergen_day.ff7369ac.jpg",
+    "static/media/bergen_festplassen2.9557a430.jpg": "/08-Project-Exam-2/static/media/bergen_festplassen2.9557a430.jpg",
+    "static/media/bergen_gondol2.af8a5cbc.jpg": "/08-Project-Exam-2/static/media/bergen_gondol2.af8a5cbc.jpg",
+    "static/media/bergen_lufthavn2.0fc4f702.jpg": "/08-Project-Exam-2/static/media/bergen_lufthavn2.0fc4f702.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f7d60a2.js",
+    "static/js/2.32929380.chunk.js",
+    "static/css/main.e275aa14.chunk.css",
+    "static/js/main.ea213fce.chunk.js"
+  ]
+}
